@@ -1,0 +1,16 @@
+{
+"companyName": "coffee",
+"productName": "WebAR_ARWT_Test",
+"productVersion": "0.1",
+"dataUrl": "Unity_20211126_ARWT.data.unityweb",
+"wasmCodeUrl": "Unity_20211126_ARWT.wasm",
+"wasmFrameworkUrl": "Unity_20211126_ARWT.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.33f1"
+}
